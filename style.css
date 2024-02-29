@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(255, 113, 136); 
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+  }
+  
+  .container {
+    text-align: center; 
+  }
+  
